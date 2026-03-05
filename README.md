@@ -51,7 +51,6 @@ task-manager/
 │   ├── utils/            # Utilities
 │   │   └── logger.js
 │   └── app.js            # Express app entry
-├── index.js              # Server entry
 ├── knexfile.js           # Knex configuration
 ├── package.json
 └── README.md
